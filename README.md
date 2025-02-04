@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hbkt9doward7sy14a1dccFuhrman
 
-<!--
-**Hbkt9doward7sy14a1dccFuhrman/Hbkt9doward7sy14a1dccFuhrman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏒 🎭 A passionate developer who loves internet of things 🏒 🎭
 
-Here are some ideas to get you started:
+## About Me
+🌟 🌍 🏏 🎰 Addicted to web development 🌟 🌍 🏏 🎰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎱 🌟 🥋 Enthusiastic about content creation 🎱 🌟 🥋
+
+### Fun Facts
+🎮 🎪 Innovating in the field of developer tools 🎮 🎪
+
+---
+🎾 🥊 📚 🎰 🏏 Thanks for visiting my profile! 🥋 🎨 🎻 🚣 🏏
